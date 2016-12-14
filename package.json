@@ -1,0 +1,28 @@
+{
+  "name": "star-index",
+  "version": "1.0.0",
+  "description": "Calculate star-index of github devs based on the stars of their github repositories",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subodh-dharma/star-index.git"
+  },
+  "keywords": [
+    "github",
+    "star-index",
+    "h-index"
+  ],
+  "author": "subodh-dharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subodh-dharma/star-index/issues"
+  },
+  "homepage": "https://github.com/subodh-dharma/star-index#readme",
+  "dependencies": {
+    "octonode": "^0.7.7",
+    "request": "^2.79.0"
+  }
+}
